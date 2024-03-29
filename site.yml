@@ -5,4 +5,4 @@
     - name: Print OS info
       ansible.builtin.package:
         name: apache2
-        name: mariadb
+        name: mariadb-server
